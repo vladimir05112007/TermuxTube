@@ -11,10 +11,10 @@ You need a python 3.7.0 or higher. And pip.
 
 For start and install needed modules, you need type this program in termux:
 ```
-python -m pip install colorama
+cd TermuxTube
 ```
 ```
-python -m pip install pytube
+python install.py
 ```
 ## Start the program
 Open directory with TermuxTube, and type
